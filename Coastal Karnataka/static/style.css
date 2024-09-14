@@ -1,0 +1,51 @@
+
+.myname{
+    display: flex;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     flex: 1 1 0%;
+    color: white;
+  background-color: black;
+  font-size: large;
+  font-weight: lighter;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.heading1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid white;
+    font-size: 35px;
+
+}
+.main{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.btn{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Rainfall{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    border-top: 3px solid white;
+}
+.card-body{
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
